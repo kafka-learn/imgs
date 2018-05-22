@@ -11,11 +11,11 @@ $ python tool.py
 
 * 图片名称用英文名称
 
-* 引用图片地址如下
+* 引用图片地址，例如
 
 ```
-# src下的
-
-# compress_src下的
-
+# ./src下的
+https://raw.githubusercontent.com/kafka-learn/imgs/master/src/alter_partion.png
+# ./compress_src下的
+https://raw.githubusercontent.com/kafka-learn/imgs/master/compress_src/alter_partion.png
 ```
